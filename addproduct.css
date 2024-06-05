@@ -1,0 +1,118 @@
+ .main {
+    margin-left: 460px;
+    font-size: 8px; 
+    padding: 2px 10px;
+        }
+   
+ table{
+     text-align: left;
+     }
+ p{
+    color: darkgreen;
+     }
+ a{
+     color: red;
+                
+     font-size: 18px;
+    }
+h2{
+    margin-left: 25%;
+    font-size: 25px;
+}
+
+.main input[type="text"]{
+    
+    border: groove;
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 35px;
+    text-align: center;
+    margin-left: -35%;
+    display: inline-block;
+}
+
+.main input[type="number"]{
+     border: groove;
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 35px;
+    text-align: center;
+    margin-left: -35%;
+    display: inline-block;
+}
+
+.main input[type="date"]{
+    border: groove;
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 35px;
+    text-align: center;
+    margin-left: -35%;
+    display: inline-block;
+}
+
+.main input[type="time"]{
+     border: groove;
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 35px;
+    text-align: center;
+    margin-left: -35%;
+    display: inline-block;
+}
+
+.main input[type="file"]{
+    border: none;
+    width: 400px;
+    text-align: center;
+    margin-left: -15%;
+    background: transparent;
+}
+
+th{
+    font-style: oblique;
+    font-size: 18px;
+    color: black;
+    margin-left: 10px;
+}
+
+.main input[type="submit"]{
+border: none;
+    width: 500px;
+    height: 40px;
+    margin-left: 25%;
+    color: white;
+    background: midnightblue;
+
+}
+hr{
+    width: 90%;
+    margin-left: -10%;
+}
+
+.select select{
+    border: groove;
+    background: transparent;
+    border-radius: 4px;
+    width: 350px;
+    height: 37px;
+    margin-left: -34.5%;
+    display: inline-block;
+    padding: 2px;
+    line-height: 1px;
+    direction: ltr;
+    text-align-last: center;
+}
+        .select select option{
+            font-size: 15px;
+            border-radius: 4px;
+            padding-left: 60px;
+        }
+    
+
+ 
+

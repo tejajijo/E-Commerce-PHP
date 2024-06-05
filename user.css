@@ -1,0 +1,81 @@
+         .main{
+             margin-left: 75%;
+            margin-top: 2%;
+           
+        }
+        .dash{
+             margin-left: 49%;
+        }
+        .test{
+             margin-left: 30%;
+            margin-top: 5.5%;
+            border: outset;
+            width: 210px;
+        
+        }
+        
+        .test input[type="text"]{
+            border: none;
+            text-align: center;
+        }
+        
+        .service{
+            margin-left: 65%;
+            margin-top: -5.7%;
+            border: outset;
+            width: 180px;
+          
+        }
+        
+        .service input[type="text"]{
+            border: none;
+            text-align: center;
+        }
+        
+        .log {
+            margin-left: 40%;
+             margin-top:-5.0%;
+            
+            
+        }
+        
+        .log input[type="submit"]{
+            
+            border: none;
+            background: transparent;
+        
+        }
+        .user{
+            margin-left: 30%;
+           border: outset;
+            width: 180px;
+        }
+        
+        .user input[type="text"]{
+            border: none;
+            text-align: center;
+        }
+        .product{
+             margin-left: 75%;
+            margin-top: -5.5%;
+            border: outset;
+            width: 180px;
+        }
+        
+        .product input[type="text"]{
+            border: none;
+            text-align: center;
+        }
+        
+        .employe{
+            margin-left: 52%;
+            margin-top: -5.5%;
+            border: outset;
+            width: 180px;
+        }
+        
+        .employe input[type="text"]{
+            border: none;
+            text-align: center;
+        }
+

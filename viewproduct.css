@@ -1,0 +1,64 @@
+  .main {
+  margin-left: 250px; 
+  font-size: 18px; 
+  padding: 2px 10px;
+}
+ table{
+ border-collapse: collapse;
+text-align: center;
+        
+    }
+tr{
+    padding: 10px;
+}
+
+.search {
+    margin-left: 79%;
+    border-bottom: 150%;
+}
+
+.search input[type="text"]{
+     border: groove;
+    border-radius: 4px;
+    height: 25px;
+    width: 160px;
+}
+
+.search input[type="submit"]{
+    border: none;
+    width:80px;
+    height: 30px;
+    color: white;
+    background: midnightblue;
+}
+ h2{
+    text-align: center;
+    border-top:10%;
+}
+
+.main input[type="submit"]{
+border: none;
+    width: 80px;
+    height: 30px;
+    color: white;
+    background: midnightblue;
+}
+
+table{
+    border:none;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+}
+td{
+    border: none;
+     border-bottom: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+
+th{
+    border: none;
+     border-bottom: 1px solid black;
+     padding: 20px;
+}
+
